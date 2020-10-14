@@ -1,0 +1,1 @@
+Lien ajout : https://discord.com/oauth2/authorize?client_id=765616647532576778&scope=UnoBot&permissions=523344
